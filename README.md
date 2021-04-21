@@ -1,2 +1,2 @@
 # adaptive-activation-function
-Testing Ada-act activation function with Neural Network
+Testing Ada-Act activation function with Neural Network
